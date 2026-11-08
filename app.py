@@ -71,7 +71,7 @@ def extract_crop_coords(canvas_result, orig_w, orig_h, disp_w, disp_h):
     return x1, x2, y1, y2
 
 st.set_page_config(
-    page_title="Image Lab",
+    page_title="Image Sphere",
     layout="wide"
 )
 
