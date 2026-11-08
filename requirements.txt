@@ -1,4 +1,5 @@
-streamlit>=1.30
+streamlit>=1.53
 numpy
-pillow
+Pillow
 matplotlib
+streamlit-drawable-canvas==0.13.0
